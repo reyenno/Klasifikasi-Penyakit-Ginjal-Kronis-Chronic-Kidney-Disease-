@@ -119,3 +119,7 @@ cd Klasifikasi-Penyakit-Ginjal-Kronis-Chronic-Kidney-Disease-
 ### Jalankan Project
 Jalankan jupyter notebook dan buka file chronic_kidney_disease.ipynb
 
+## Authors
+Muhammad Reyenno R.S.
+Muhammad Andhika M.
+I Made Dwi Wiryawan R.
